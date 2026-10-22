@@ -77,12 +77,72 @@
 
 
 
-Feature	           List	               Tuple	          Dictionary	              Set
-Syntax	           [ ]	                 ( )	          {key: value}	              { }
-Ordered	             Yes	              Yes	       Yes (insertion order)	   No
-Mutable            	Yes	                 No	                    Yes	                Yes
-Duplicates	           Yes              Yes	                 Keys: no	             No
-Access	             Index	              Index	               Key	                Membership
-Main use	         Collections	Fixed groups	       Key-value lookup	     Unique values
+# Feature	           List	               Tuple	          Dictionary	              Set
+# Syntax	           [ ]	                 ( )	          {key: value}	              { }
+# Ordered	             Yes	              Yes	       Yes (insertion order)	   No
+# Mutable            	Yes	                 No	                    Yes	                Yes
+# Duplicates	           Yes              Yes	                 Keys: no	             No
+# Access	             Index	              Index	               Key	                Membership
+# Main use	         Collections	Fixed groups	       Key-value lookup	     Unique values
 
-         
+
+
+# end=""  prevent new linne 
+
+
+
+# conditional 
+
+#if else else if
+
+# a= int(input("enter age"))
+
+# if(a>18):
+#     print("adult");
+
+# else:
+#     print("child")
+
+
+# a=1;
+# b=0;
+# if(a>b and a==1):
+#     print("hi")
+
+
+#loop
+
+
+# i=10;
+# while(i>0):
+#     print(i)
+#     i-=1
+
+
+
+# for i in range(5) :    #n-1
+#     print(i);
+
+
+# l=[1,2,32,2123];
+# for i in l:
+#     print(i);
+
+
+
+
+# for i in range(10, 0, -1):
+#     print(i)
+
+
+# function 
+
+
+
+# def fun():
+#     print("hi");
+
+
+# fun();
+
+
