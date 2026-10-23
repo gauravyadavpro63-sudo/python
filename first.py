@@ -146,3 +146,46 @@
 # fun();
 
 
+# file i/o
+
+
+# file=open("docs.md")  by default read 
+# data=file.read();
+# print(data);
+# file.close()
+
+
+
+# st="hi i am hacker"
+# file=open("myfile.txt","w")
+# file.write(st);
+# file.close()
+
+
+# with open("myfile.txt") as f:   #no need to close the file
+#     print(f.read())
+
+
+
+
+# object oriented programing with python 
+
+
+# class employee:
+#     language="python"
+#     salary=1233
+
+#     def __init__(self,name,salary,language): #constructor
+
+#            self.name=name
+#            self.salary=salary
+#            self.language=language;
+
+#     def getInfo(self):              #mehthod(function)
+#           print(self.language);
+
+
+
+# harry=employee("harry",3323,"java")
+
+# print(harry.name,harry.salary)
